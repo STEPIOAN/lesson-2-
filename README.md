@@ -1,7 +1,7 @@
-#   ✅ Create a table (DataFrame) with student information.
-#   ✅ Add new students to the table, including your own group members.
-#   ✅ Add a new column that shows each student’s hobby.
-#   ✅ Print the full table to see all your data together!
+###   ✅ Create a table (DataFrame) with student information.
+###   ✅ Add new students to the table, including your own group members.
+###   ✅ Add a new column that shows each student’s hobby.
+###   ✅ Print the full table to see all your data together!
 ## Challenge 1: Add another group member
 ## Example:
 df.loc[len(df)] = ['YourName', 15, 'English', 'Photography']
