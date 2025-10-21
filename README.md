@@ -1,4 +1,5 @@
-###   ✅ Create a table (DataFrame) with student information.
+# Instruction 
+###   ✅ Create a table (DataFrame) within your own group information.
 ###   ✅ Add new students to the table, including your own group members.
 ###   ✅ Add a new column that shows each student’s hobby.
 ###   ✅ Print the full table to see all your data together!
@@ -17,3 +18,4 @@ print(df['Hobby'])
 ### Challenge 4: Save your group table as a CSV file (like a mini-database!)
 ### Example:
 df.to_csv('group_students.csv', index=False)
+# analyze the datasets and tell something you found interesting to learn about your group member  
