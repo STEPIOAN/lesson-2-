@@ -24,3 +24,8 @@ print("After Adding a New Student:\n", df, "\n")
 # Add a new column 'Hobby'
 df['Hobby'] = ['Reading', 'Soccer', 'Gaming', 'Gaming','Art']
 print("After Adding the 'Hobby' Column:\n", df, "\n")
+#check Name column 
+# print("Name Column:\n", df['Name'],"\n")
+# save DataFrame as a CSV file 
+# df.to_csv('student_group.csv', index=False) # index=False tells pandas not to include the row numbers (index) in the CSV file
+# print("DataFrame saved as 'student_group.csv'")
