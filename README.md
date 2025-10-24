@@ -27,7 +27,7 @@ df.to_csv('group_students.csv', index=False)
 | Jaden     | 15  | Math             | Soccer      | Apples         |
 | Emmanuel  | 12  | Art              | Drawing     | Cookies        |
 | Andrew    | 14  | Science          | Music       | Pizza          |
-| Jessica   | 15  | English          | Photography | Banana         |
+| Jessica   | 15  | English          | Photography | Pizza          |
 
 # Analysis & Observations
 1. The group has diverse academic interests, from Science and Math to Art and English.
