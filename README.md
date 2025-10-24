@@ -20,6 +20,15 @@ print(df['Hobby'])
 ### Challenge 4: Save your group table as a CSV file (like a mini-database!)
 ### Example:
 df.to_csv('group_students.csv', index=False)
+### 📊 Example Dataset
+| Name      | Age | Favorite_Subject | Hobby       | Favorite_Snack |
+| --------- | --- | ---------------- | ----------- | -------------- |
+| Naomi     | 13  | Science          | Reading     | Chips          |
+| Jaden     | 15  | Math             | Soccer      | Apples         |
+| Emmanuel  | 12  | Art              | Drawing     | Cookies        |
+| Andrew    | 14  | Science          | Music       | Pizza          |
+| Jessica   | 15  | English          | Photography | Banana         |
+
 # Analysis & Observations
 1. The group has diverse academic interests, from Science and Math to Art and English.
 2. Several group members enjoy creative hobbies like drawing, music, and photography.
