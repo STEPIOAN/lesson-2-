@@ -1,10 +1,10 @@
 # Instruction 
 #### Dataset Overview: This project demonstrates how to create and manage a simple dataset (DataFrame) using Python and pandas. Each group member is included with their name, age, favorite subject, hobby, and favorite snack. The dataset was then analyzed to learn more about our group’s interests and differences.
 
-###   ✅ Create a table (DataFrame) within your own group information.
-###   ✅ Add new students to the table, including your own group members.
-###   ✅ Add a new column that shows each student’s hobby.
-###   ✅ Print the full table to see all your data together!
+####   ✅ Create a table (DataFrame) within your own group information.
+####   ✅ Add new students to the table, including your own group members.
+####   ✅ Add a new column that shows each student’s hobby.
+####   ✅ Print the full table to see all your data together!
 ### Challenge 1: Add another group member
 ### Example:
 df.loc[len(df)] = ['YourName', 15, 'English', 'Photography']
