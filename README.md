@@ -34,3 +34,8 @@ df.to_csv('group_students.csv', index=False)
 2. Several group members enjoy creative hobbies like drawing, music, and photography.
 3. Everyone has different favorite snacks, which shows unique personal tastes!
 4. Working on this dataset helped us understand how data scientists use pandas to manage and analyze real-world data.
+
+Example from a Data Science Competition—Detecting Fake News
+https://youtu.be/rtOQrdri48s?si=N_G8NiAGow3oF5TK&t=174
+[Download the presentation](https://github.com/user-attachments/files/23136023/Presentation.12.1.pdf)
+
